@@ -9,9 +9,4 @@
 - تسجيل المصروفات حسب فئات Kakeibo الأربع.
 - ميزانية شهرية.
 - قائمة أغراض البيت.
-- أسئلة التأمل الشهرية الأربعة.
-- GitHub Actions لبناء APK تلقائياً.
-
-## البناء
-يمكن فتح المشروع في Android Studio أو تشغيل GitHub Actions عبر `workflow_dispatch`.
-الناتج: `app/build/outputs/apk/debug/app-debug.apk`.
+- أسئلة التأمل 
